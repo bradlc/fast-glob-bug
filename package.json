@@ -1,0 +1,6 @@
+{
+  "name": "fast-glob-bug",
+  "dependencies": {
+    "fast-glob": "^3.2.5"
+  }
+}
